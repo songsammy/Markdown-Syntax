@@ -1,3 +1,3 @@
 ## Automatic Links
 <http://example.com/>    
-    /<http://example.com/>
+   &lt;http://example.com/&gt;
