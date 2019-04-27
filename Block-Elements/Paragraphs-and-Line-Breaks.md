@@ -1,4 +1,5 @@
-##Paragraphs and Line Breaks 
+## Paragraphs and Line Breaks  
+
 **Generate a new paragraph with an empty line**  
 *Paragraph 1* Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
