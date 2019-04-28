@@ -6,21 +6,21 @@
 
 ## Block Elements
 
-[Paragraphs and Line Breaks](Block-Elements/Paragraphs-and-Line-BreaksMiscellaneous "Paragraphs and Line Breaks")  
-[Headers](Block-Elements/HeadersMiscellaneous "Headers")  
-[Blockquotes](Block-Elements/BlockquotesMiscellaneous "Blockquotes")  
-[Lists](Block-Elements/ListsMiscellaneous "Lists")  
-[Code Blocks](Block-Elements/Code-BlocksMiscellaneous "Code Blocks")   
-[Horizontal Rules](Block-Elements/Horizontal-RulesMiscellaneous "Horizontal Rules")  
+[Paragraphs and Line Breaks](Block-Elements/Paragraphs-and-Line-Breaks "Paragraphs and Line Breaks")  
+[Headers](Block-Elements/Headers "Headers")  
+[Blockquotes](Block-Elements/Blockquotes "Blockquotes")  
+[Lists](Block-Elements/Lists "Lists")  
+[Code Blocks](Block-Elements/Code-Blocks "Code Blocks")   
+[Horizontal Rules](Block-Elements/Horizontal-Rules "Horizontal Rules")  
 
 ## Span Elements
 
-[Links](Span-Elements/LinkMiscellaneous "Span Elements")  
-[Emphasis](Span-Elements/EmphasisMiscellaneous "Emphasis")  
-[Code](Span-Elements/CodeMiscellaneous "Code")  
-[Images](Span-Elements/ImagesMiscellaneous "Images")  
+[Links](Span-Elements/Link "Span Elements")  
+[Emphasis](Span-Elements/Emphasis "Emphasis")  
+[Code](Span-Elements/Code "Code")  
+[Images](Span-Elements/Images "Images")  
 
 ## Miscellaneous
 
-[Backslash Escapes](Miscellaneous/Backslash-escapesMiscellaneous "Backslash Escapes")  
-[Automatic Links](Miscellaneous/Automatic-LinksMiscellaneous "Automatic Links") 
+[Backslash Escapes](Miscellaneous/Backslash-escapes "Backslash Escapes")  
+[Automatic Links](Miscellaneous/Automatic-Links "Automatic Links") 
