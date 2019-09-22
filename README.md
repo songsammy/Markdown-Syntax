@@ -15,7 +15,7 @@
 
 ## Span Elements
 
-[Links](Span-Elements/Link "Span Elements")  
+[Links](Span-Elements/Links "Span Elements")  
 [Emphasis](Span-Elements/Emphasis "Emphasis")  
 [Code](Span-Elements/Code "Code")  
 [Images](Span-Elements/Images "Images")  
